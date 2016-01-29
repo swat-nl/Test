@@ -83,6 +83,10 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" />
+    <Content Include="bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml" />
+    <Content Include="bin\Nancy.dll" />
+    <Content Include="bin\Nancy.Hosting.Aspnet.dll" />
     <Content Include="content\helloworld1.gif" />
     <Content Include="Views\Home\Index.html" />
     <Content Include="Web.config" />
